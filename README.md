@@ -1,4 +1,4 @@
-# Hi, I'm Harry Sánchez 👋 | Hola, soy Harry Sánchez 👋
+# Hi, I'm Harry Sánchez 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4380D&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Finance+%26+Data+Analysis+Enthusiast;International+Experience+%7C+UQ+Australia;Bogotá%2C+Colombia+🇨🇴" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🇬🇧 About Me
+## About Me
 
 I'm a **Software Engineering student** at Pontificia Universidad Javeriana (GPA 4.2/5.0), with a strong interest in **data analysis, finance, and strategic problem-solving**. I recently completed an academic exchange at **The University of Queensland** (Australia), where I participated in innovation challenges and worked as a Software Engineer Intern at a startup.
 
@@ -16,21 +16,7 @@ I enjoy combining technical skills with business thinking — whether it's build
 - 🌏 Academic Exchange — The University of Queensland, Brisbane (2025)
 - 💼 Currently: Finance & Audit Member @ AIESEC | Consulting Group Member @ Javeriana
 - 🌱 Learning: Data analysis pipelines, financial modeling, business strategy
-- 🗣️ Languages: Spanish (native) · English C1 (IELTS certified) · French (intermediate) · Mandarin Chinese (HSK 1)
-
----
-
-## 🇪🇸 Sobre mí
-
-Soy estudiante de **Ingeniería de Sistemas** en la Pontificia Universidad Javeriana (promedio 4.2/5.0), con interés en **análisis de datos, finanzas y resolución estructurada de problemas**. Recientemente completé un intercambio académico en la **University of Queensland** (Australia), donde participé en hackathons de innovación y trabajé como Software Engineer Intern en una startup.
-
-Me gusta combinar habilidades técnicas con pensamiento de negocio: desde construir dashboards en Power BI hasta analizar flujos de caja o resolver casos de consultoría.
-
-- 🎓 Ing. de Sistemas — Pontificia Universidad Javeriana, Bogotá
-- 🌏 Intercambio — The University of Queensland, Brisbane (2025)
-- 💼 Actualmente: Miembro F&L @ AIESEC | Miembro @ Consulting Group Javeriana
-- 🌱 Aprendiendo: Pipelines de análisis de datos, modelado financiero, estrategia de negocio
-- 🗣️ Idiomas: Español (nativo) · Inglés C1 (IELTS certificado) · Francés (intermedio) · Chino mandarín (HSK 1)
+- 🗣️ Languages: Spanish (native) · English C1 (IELTS certified) · French (intermediate) · Mandarin Chinese (HSK 1 certified)
 
 ---
 
@@ -49,14 +35,12 @@ Me gusta combinar habilidades técnicas con pensamiento de negocio: desde constr
 
 ---
 
-## 📌 Areas of Interest | Áreas de Interés
+## 📌 Areas of Interest
 
-| 🇬🇧 English | 🇪🇸 Español |
-|---|---|
-| Finance & Data Analysis | Finanzas y Análisis de Datos |
-| Business Strategy & Consulting | Estrategia de Negocio y Consultoría |
-| Software Development | Desarrollo de Software |
-| Social Impact & Leadership | Impacto Social y Liderazgo |
+- 📊 Finance & Data Analysis
+- 🧩 Business Strategy & Consulting
+- 💻 Software Development
+- 🌱 Social Impact & Leadership
 
 ---
 
@@ -67,6 +51,7 @@ Me gusta combinar habilidades técnicas con pensamiento de negocio: desde constr
 - 🎖️ **Academic Excellence Certificate** — Pontificia Universidad Javeriana (2024)
 - ⭐ **Insignia MAGIS** — Pontificia Universidad Javeriana (2023)
 - 📜 **IELTS C1** — English proficiency certified
+- 🀄 **HSK 1** — Mandarin Chinese certified
 
 ---
 
@@ -77,6 +62,7 @@ Me gusta combinar habilidades técnicas con pensamiento de negocio: desde constr
 - 🧠 Consulting Tools & Problem Solving — Emory University (2026)
 - 🔍 Introduction to Management Consulting — Emory University (2025)
 - 🤖 AI Foundations — Platzi (2024)
+- 🀄 Mandarin Chinese HSK 1 — Hanban certified
 
 ---
 
@@ -94,6 +80,5 @@ Me gusta combinar habilidades técnicas con pensamiento de negocio: desde constr
 ---
 
 <p align="center">
-  <i>"Combining analytical thinking with a passion for creating real impact."</i><br/>
-  <i>"Combinando pensamiento analítico con pasión por generar impacto real."</i>
+  <i>"Combining analytical thinking with a passion for creating real impact."</i>
 </p>
